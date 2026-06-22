@@ -6,16 +6,14 @@ toc: true
 toc_sticky: true
 toc_icon: "cog"
 cfp_glance:
-  - label: "Abstract"
+  - label: "Abstract due"
     value: "Dec 16, 2026"
-  - label: "Paper"
+  - label: "Paper due"
     value: "Dec 20, 2026"
   - label: "Notification"
     value: "Jan 19, 2027"
   - label: "Camera-ready"
     value: "Jan 29, 2027"
-  - label: "Submission site"
-    value: "TBA"
   - label: "Award"
     value: "Best Paper/Presentation"
 ---
